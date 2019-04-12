@@ -1,0 +1,22 @@
+/**
+ * @custom
+ * Default style for file module.
+ */
+
+h1.title {
+    margin-top: 1rem;
+}
+
+.g-recaptcha {
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.node-readmore {
+   @extend .btn-primary;
+}
+
+.node--view-mode-teaser.node--sticky .node-readmore{
+    margin-top:1rem;
+}
