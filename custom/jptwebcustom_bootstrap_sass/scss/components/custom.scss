@@ -20,3 +20,12 @@ h1.title {
 .node--view-mode-teaser.node--sticky .node-readmore{
     margin-top:1rem;
 }
+
+article.node.node--type-image-gallery.node--view-mode-teaser {
+    margin-right: 1rem;
+}
+
+.path-frontpage h1.title {
+    visibility: hidden;
+    height: 0px;
+}
